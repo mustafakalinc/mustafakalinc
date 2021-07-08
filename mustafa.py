@@ -6,3 +6,5 @@ print("API-KEY:",json_dosya["access_token"])
 print("API-KEY:",json_dosya["ad"])
 print("API-KEY:",json_dosya["soyad"])
 
+
+
